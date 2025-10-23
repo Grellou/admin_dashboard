@@ -321,7 +321,7 @@
   grid-template-rows: 0.2fr 1.7fr 0.3fr 0.2fr repeat(2, 1.4fr);
   gap: 0px 20px;
   grid-area: 2 / 2 / 3 / 3;
-  background-color: #e2e7ef;
+  background-color: #e8eaed;
 }
 
 .main-content-projects-header {
@@ -353,7 +353,7 @@
   grid-template-rows: repeat(3, 1fr);
   gap: 0px 0px;
   grid-area: 2 / 3 / 4 / 4;
-  margin-right: 80px;
+  margin-right: 20px;
   margin-bottom: 20px;
   border-radius: 20px;
   background-color: white;
@@ -414,7 +414,7 @@
   grid-template-columns: repeat(2, 1fr);
   grid-template-rows: repeat(3, 1fr);
   grid-area: 5 / 3 / 7 / 4;
-  margin-right: 80px;
+  margin-right: 20px;
   margin-bottom: 20px;
   border-radius: 20px;
   background-color: white;
